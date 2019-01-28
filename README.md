@@ -1,7 +1,7 @@
 # Self-Driving Cars: OpenCV and Python Integration
 ## A step in a new direction.
 ---
-Built around the concept of a self-driving car. Built in Python and utilizing OpenCV integration, we're aiming to make a fool-proof self-driving car.
+Built around the concept of a self-driving car. Built in Python and utilizing OpenCV integration, we're aiming to make a fool-proof self-driving car. This is also the first step in an up-and-coming pOCV project.
 
 # About the Project
 ---
